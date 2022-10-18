@@ -17,6 +17,10 @@
 # Enable updating of APEXes
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
+# AOSPA Overlays
+PRODUCT_PACKAGES += \
+    AOSPAFrameworksOverlayGS201
+
 # Camera
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.vendor.camera.extensions.package=com.google.android.apps.camera.services \
