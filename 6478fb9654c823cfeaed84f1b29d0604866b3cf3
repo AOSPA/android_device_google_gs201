@@ -16,6 +16,24 @@
       "message": "use Overrides in prop files instead",
       "revId": "6478fb9654c823cfeaed84f1b29d0604866b3cf3",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "52f704c8_19820471",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000896
+      },
+      "writtenOn": "2023-07-29T05:58:56Z",
+      "side": 1,
+      "message": "I can\u0027t do that as I am using adevtool to autogenerate the vendor and it doesn\u0027t have override functionality. Already discussed this with Jake.",
+      "parentUuid": "e1f03a71_c6f390b0",
+      "revId": "6478fb9654c823cfeaed84f1b29d0604866b3cf3",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
